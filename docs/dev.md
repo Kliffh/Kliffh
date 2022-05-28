@@ -6,17 +6,19 @@ https://shimo.im/sheets/vwdrYGCrkWXxP8CJ/MODOC/
 ## 需求梳理
 https://shimo.im/files/rp3OV2vlQ0C0O1Am/
 
+## 业务流程图
+<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Business%20Flow.png" alt="Business Flow" width="120%"/>
+
+## Token流转图
+<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Token%20flow.png" alt="Business Flow" width="120%"/>
+
 ## 设计原型
 https://axhub.im/ax9/1f3bf6bb440ad56e
 
 ## 原始项目文档
 https://theia001.gitbook.io/spaceship/
 
-## 业务流程图
-<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Business%20Flow.png" alt="Business Flow" width="120%"/>
 
-## Token流转图
-<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Token%20flow.png" alt="Business Flow" width="120%"/>
 
 
 # 项目背景
@@ -49,6 +51,9 @@ totol supply:无上限
 
 产出方式：主动销毁飞船产出，详细规则查看文档《魔盒与飞船信息-飞船参数》
 销毁方式：幸运星球销毁ENG获取抽奖券，具体查看需求文档《设计需求-幸运星球》
+
+
+
 
 
 # 技术文档
