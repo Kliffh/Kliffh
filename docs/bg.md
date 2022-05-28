@@ -20,7 +20,7 @@ totol supply:无上限
 销毁方式：幸运星球销毁ENG获取抽奖券，具体查看需求文档《设计需求-幸运星球》
 
 ## 业务流程图
-<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Token%20flow.png" alt="Business Flow" width="80%"/>
+<img src="https://github.com/Kliffh/Kliffh/blob/main/docs/Token%20flow.png" alt="Business Flow" width="120%"/>
 
 ## Token流转图
 https://shimo.im/files/25q5MbWzpNFnYaqD/
